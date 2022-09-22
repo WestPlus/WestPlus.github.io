@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: 隐私条款
 subtitle: Select ramblings of Pudhina
 ---
 
