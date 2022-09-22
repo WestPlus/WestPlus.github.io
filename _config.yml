@@ -1,16 +1,16 @@
 # Site settings
-title: Quick Decision
+title: West Plus
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  A simple team, focusing on tool apps.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+url: "https://westplus.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: Cathy
   github: github
   linkedin: linkedin
-  email: example@email.com
+  email: westplusapp@gmail.com
 
 
 # Syntax highlighting
