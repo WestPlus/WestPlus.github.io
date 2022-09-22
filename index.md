@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Decides
-subtitle: My name is Zhoujia
+subtitle: Just one click to make an Easy Decision!
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/decides.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>	
 </div>
