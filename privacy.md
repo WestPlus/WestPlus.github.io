@@ -23,7 +23,8 @@ We may employ third-party companies and individuals for the following reasons:
 * To facilitate our Service;
 * To provide the Service on our behalf;
 * To perform Service-related services; 
-* To assist us in analyzing how our Service is used.
+* To assist us in analyzing how our Service is used.  
+  
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 ### Security
 We value your trust in providing us with your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
