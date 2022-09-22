@@ -13,6 +13,7 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 * <a href="https://firebase.google.com/policies/analytics" target="_blank">Google Analytics for Firebase</a>
 * <a href="https://support.google.com/admob/answer/6128543" target="_blank">AdMob</a>
+
 ### Log Data
 We want to inform you that whenever you use our service, in case of an error in the app, we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 ### Cookies
