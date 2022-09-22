@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: Decides
 subtitle: My name is Zhoujia
 sitemap:
   priority: 0.9
